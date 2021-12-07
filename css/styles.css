@@ -3037,7 +3037,6 @@ textarea.form-control-lg {
 .btn-primary:hover {
   color: #fff;
   background-color: #48769e85;
-}hadow: 0 0 0 0.25rem rgba(246, 122, 88, 0.5);
 }
 .btn-primary:disabled, .btn-primary.disabled {
   color: #fff;
@@ -11443,6 +11442,7 @@ header.masthead h1, header.masthead .h1 {
 }
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xl .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xxl .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
+
 }
 
 .project-links {
